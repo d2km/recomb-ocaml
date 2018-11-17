@@ -1,0 +1,3 @@
+(executable
+ (name recomb)
+ (libraries re re2 pcre angstrom core_bench))
